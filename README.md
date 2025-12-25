@@ -25,17 +25,6 @@ By leveraging **LangGraph** for orchestration and **GPT-5-mini** (via OpenAI) fo
 - **Search Engine**: Elasticsearch (ES)
 - **Observability**: Slack Integration (Real-time pipeline status)
 
-## 🏗️ Pipeline Architecture
-
-```mermaid
-graph TD
-    S1[Start: Read Raw CSV] --> S2[Validate Raw Data]
-    S2 --> S3[Agentic Conversion Logic]
-    subgraph "Agentic Reasoning Layer"
-        S3-1[Profiler Agent] --> S3-2[Planner Agent]
-        S3-2 --> S3-3[Generator Agents]
-    end
-```
 
 ## 🚀 Pipeline Stages (S1-S8)
 

@@ -1,5 +1,5 @@
 import pandas as pd
-from observability.slack import slack
+from src.observability.slack import slack
 
 # In-memory cache for dynamically generated validators
 DYNAMIC_VALIDATORS = {}

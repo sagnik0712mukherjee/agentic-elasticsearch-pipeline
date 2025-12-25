@@ -1,7 +1,7 @@
 import json
-from observability.slack import slack
-from agents.generator_agents.validation_generator_agent import generate_validation_code
-from executor.dynamic_validators import execute_dynamic_validator
+from src.observability.slack import slack
+from src.agents.generator_agents.validation_generator_agent import generate_validation_code
+from src.executor.dynamic_validators import execute_dynamic_validator
 
 def s4_validate_final(state):
     slack("Starting S4: Final Validation")
@@ -9,7 +9,7 @@ def s4_validate_final(state):
 
     # Load validation rules
     try:
-        with open("data/rules/data_validation_rules.json") as f:
+        with open("src/data/rules/data_validation_rules.json") as f:
             validation_rules = json.load(f)
     except Exception as e:
         slack(f"⚠️ Could not load validation rules: {str(e)}")

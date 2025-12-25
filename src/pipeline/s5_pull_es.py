@@ -1,6 +1,6 @@
 from elasticsearch import Elasticsearch, helpers
-import config
-from observability.slack import slack
+from config import config
+from src.observability.slack import slack
 
 def s5_pull_es(state):
     slack("Starting S5: Pull ES Data")

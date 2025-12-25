@@ -1,8 +1,8 @@
 import json
-from agents.profiler_agent import profile_raw
-from agents.planner_agent import create_plan
-from executor.apply_plan import apply_plan
-from observability.slack import slack
+from src.agents.profiler_agent import profile_raw
+from src.agents.planner_agent import create_plan
+from src.executor.apply_plan import apply_plan
+from src.observability.slack import slack
 
 def s3_agent_convert(state):
     slack("Starting S3: Agent Conversion")
@@ -10,7 +10,7 @@ def s3_agent_convert(state):
     es_schema = state["es_schema"]
 
     # Load business rules
-    with open("data/rules/business_rules.json") as f:
+    with open("src/data/rules/business_rules.json") as f:
         business_rules = json.load(f)
 
     # Sample first 100 rows

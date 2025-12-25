@@ -1,4 +1,4 @@
-from observability.slack import slack
+from src.observability.slack import slack
 
 def s7_report(state):
     slack("Starting S7: Report Generation")

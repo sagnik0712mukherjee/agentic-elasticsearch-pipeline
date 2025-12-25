@@ -1,4 +1,4 @@
-from observability.slack import slack
+from src.observability.slack import slack
 
 def s6_compare(state):
     slack("Starting S6: Compare Data")

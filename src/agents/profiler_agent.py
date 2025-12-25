@@ -1,6 +1,6 @@
 from langchain_openai import ChatOpenAI
-import config
-from observability.slack import slack
+from config import config
+from src.observability.slack import slack
 
 llm = ChatOpenAI(model=config.OPENAI_MODEL)
 

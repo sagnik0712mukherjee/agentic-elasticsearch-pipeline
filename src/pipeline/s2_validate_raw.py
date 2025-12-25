@@ -1,5 +1,5 @@
-from observability.slack import slack
-import config
+from src.observability.slack import slack
+from config import config
 
 def s2_validate_raw(state):
     slack("Starting S2: Validate Raw Data")

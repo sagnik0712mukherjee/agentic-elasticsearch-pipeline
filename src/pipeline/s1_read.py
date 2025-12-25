@@ -1,7 +1,7 @@
 import pandas as pd
 import json
-from observability.slack import slack
-from agents.schema_discovery_agent import discover_primary_key
+from src.observability.slack import slack
+from src.agents.schema_discovery_agent import discover_primary_key
 
 def read_raw_file(file_path):
     df = pd.read_csv(file_path)
@@ -11,7 +11,7 @@ def s1_read(state):
     slack("Starting S1: Read Data (Pass-through)")
     
     # Load business rules
-    with open("data/rules/business_rules.json") as f:
+    with open("src/data/rules/business_rules.json") as f:
         business_rules = json.load(f)
     
     # Discover primary key if auto-detection is enabled

@@ -1,6 +1,6 @@
 from elasticsearch import Elasticsearch, helpers
-import config
-from observability.slack import slack
+from config import config
+from src.observability.slack import slack
 
 def s8_push_es(state):
     slack("Starting S8: Push to ES")

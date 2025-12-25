@@ -1,6 +1,6 @@
-from executor.ops import OPS
-from executor.dynamic_ops import execute_dynamic_op
-from agents.generator_agents.operation_generator_agent import generate_operation_code
+from src.executor.ops import OPS
+from src.executor.dynamic_ops import execute_dynamic_op
+from src.agents.generator_agents.operation_generator_agent import generate_operation_code
 
 def pick_best_column(df, candidates):
     for c in candidates:

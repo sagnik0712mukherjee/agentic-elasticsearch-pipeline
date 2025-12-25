@@ -35,12 +35,6 @@ graph TD
         S3-1[Profiler Agent] --> S3-2[Planner Agent]
         S3-2 --> S3-3[Generator Agents]
     end
-    S3 --> S4[Final Validation]
-    S4 --> S5[Fetch Existing ES Data]
-    S5 --> S6[Delta Comparison]
-    S6 --> S7[Execution Report]
-    S7 --> S8[Push to Elasticsearch]
-    S8 --> End[End: Pipeline Success]
 ```
 
 ## 🚀 Pipeline Stages (S1-S8)

@@ -1,0 +1,12 @@
+prod_id,product_title,dept,price_inr,img,item_description
+A240,Guava 1kg,Fruits & Veggies,₹90.00,http://vendor.com/guava.jpg,Premium Guava 1kg sourced directly for our Fruits & Veggies section.
+A241,Custard Apple,Fruits & Veggies,₹190.00,http://vendor.com/custardapple.jpg,Fresh Custard Apple sourced directly for our Fruits & Veggies section.
+A242,Bottle Gourd,Fruits & Veggies,₹35.00,http://vendor.com/bottlegourd.jpg,Organic Bottle Gourd sourced directly for our Fruits & Veggies section.
+A243,Bitter Gourd 500g,Fruits & Veggies,₹40.00,http://vendor.com/bittergourd.jpg,Premium Bitter Gourd 500g sourced directly for our Fruits & Veggies section.
+A244,Cottage Cheese,Dairy & Bakery,₹210.00,http://vendor.com/cottagecheese.jpg,Fresh Cottage Cheese sourced directly for our Dairy & Bakery section.
+A245,Feta Cheese 200g,Dairy & Bakery,₹380.00,http://vendor.com/feta.jpg,Best-selling Feta Cheese 200g sourced directly for our Dairy & Bakery section.
+A246,Mozzarella Shredded,Dairy & Bakery,₹250.00,http://vendor.com/mozzarella.jpg,Organic Mozzarella Shredded sourced directly for our Dairy & Bakery section.
+A247,Pancake Mix 500 GM,Snacks,₹195.00,http://vendor.com/pancake.jpg,Organic Pancake Mix 500g sourced directly for our Snacks section.
+A248,Oats 1kg,Staples,₹185.00,http://vendor.com/oats.jpg,Organic Oats 1kg sourced directly for our Staples section.
+A249,Maple Syrup,Staples,₹550.00,http://vendor.com/maplesyrup.jpg,Organic Maple Syrup sourced directly for our Staples section.
+A250,Green Olives Jar,Staples,₹185.00,http://vendor.com/olives.jpg,Premium Green Olives Jar sourced directly for our Staples section.

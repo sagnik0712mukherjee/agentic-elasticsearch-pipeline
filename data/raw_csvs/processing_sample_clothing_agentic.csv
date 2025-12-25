@@ -1,0 +1,201 @@
+internal_sku,style_name,zone,list_price,snapshot,bin_location,inventory_code
+CLOTH-1000,Urban Handbag - Black,Accessories,3371.99,http://imgs.merchant.com/handbag_0.jpg,A-67,INV-50010
+CLOTH-1001,Chic Watch - Black,Kids,1669.66,http://imgs.merchant.com/watch_1.jpg,A-62,INV-18287
+CLOTH-1002,Vintage Scarf - Red,Footwear,4140.4,http://imgs.merchant.com/scarf_2.jpg,A-32,INV-13732
+CLOTH-1003,Vintage Jeans - White,Kids,2906.64,http://imgs.merchant.com/jeans_3.jpg,A-7,INV-81616
+CLOTH-1004,Sporty Scarf - Black,Men's Wear,2685.08,http://imgs.merchant.com/scarf_4.jpg,A-21,INV-89942
+CLOTH-1005,Urban Watch - Red,Kids,2662.17,http://imgs.merchant.com/watch_5.jpg,A-58,INV-77568
+CLOTH-1006,Sporty Dress - Red,Kids,2400.3,http://imgs.merchant.com/dress_6.jpg,A-46,INV-22196
+CLOTH-1007,Chic Suit - Red,Men's Wear,3682.07,http://imgs.merchant.com/suit_7.jpg,A-40,INV-52114
+CLOTH-1008,Modern Suit - White,Men's Wear,3325.83,http://imgs.merchant.com/suit_8.jpg,A-98,INV-10303
+CLOTH-1009,Classic Watch - Black,Kids,2453.43,http://imgs.merchant.com/watch_9.jpg,A-23,INV-76128
+CLOTH-1010,Elegant T-Shirt - Red,Footwear,1492.07,http://imgs.merchant.com/t-shirt_10.jpg,A-13,INV-81456
+CLOTH-1011,Chic Watch - Red,Accessories,3188.04,http://imgs.merchant.com/watch_11.jpg,A-15,INV-84965
+CLOTH-1012,Chic Scarf - White,Accessories,2612.47,http://imgs.merchant.com/scarf_12.jpg,A-14,INV-64836
+CLOTH-1013,Chic Suit - Red,Accessories,1185.95,http://imgs.merchant.com/suit_13.jpg,A-27,INV-25460
+CLOTH-1014,Modern Watch - Black,Men's Wear,3482.6,http://imgs.merchant.com/watch_14.jpg,A-86,INV-49127
+CLOTH-1015,Classic Scarf - Black,Footwear,1862.21,http://imgs.merchant.com/scarf_15.jpg,A-1,INV-69696
+CLOTH-1016,Urban Jeans - Blue,Footwear,1536.25,http://imgs.merchant.com/jeans_16.jpg,A-51,INV-48646
+CLOTH-1017,Chic Jacket - White,Footwear,1244.42,http://imgs.merchant.com/jacket_17.jpg,A-71,INV-77781
+CLOTH-1018,Modern Dress - White,Kids,811.97,http://imgs.merchant.com/dress_18.jpg,A-76,INV-11567
+CLOTH-1019,Chic Sneakers - Black,Men's Wear,4184.53,http://imgs.merchant.com/sneakers_19.jpg,A-38,INV-78185
+CLOTH-1020,Chic Dress - Black,Footwear,2203.74,http://imgs.merchant.com/dress_20.jpg,A-53,INV-80255
+CLOTH-1021,Urban Watch - Black,Footwear,3675.64,http://imgs.merchant.com/watch_21.jpg,A-53,INV-68080
+CLOTH-1022,Elegant Jacket - White,Kids,1340.9,http://imgs.merchant.com/jacket_22.jpg,A-35,INV-19141
+CLOTH-1023,Urban Handbag - Red,Footwear,3964.08,http://imgs.merchant.com/handbag_23.jpg,A-24,INV-89898
+CLOTH-1024,Modern Scarf - Red,Women's Wear,612.15,http://imgs.merchant.com/scarf_24.jpg,A-97,INV-62429
+CLOTH-1025,Sporty Jeans - White,Kids,3679.55,http://imgs.merchant.com/jeans_25.jpg,A-99,INV-20093
+CLOTH-1026,Modern Sneakers - Black,Men's Wear,4281.07,http://imgs.merchant.com/sneakers_26.jpg,A-35,INV-82315
+CLOTH-1027,Chic Sunglasses - Red,Footwear,839.96,http://imgs.merchant.com/sunglasses_27.jpg,A-5,INV-51745
+CLOTH-1028,Sporty Watch - Red,Kids,4281.93,http://imgs.merchant.com/watch_28.jpg,A-54,INV-24438
+CLOTH-1029,Modern Watch - Blue,Accessories,2091.96,http://imgs.merchant.com/watch_29.jpg,A-73,INV-34726
+CLOTH-1030,Classic Suit - Blue,Kids,561.52,http://imgs.merchant.com/suit_30.jpg,A-68,INV-96901
+CLOTH-1031,Classic Sneakers - Red,Women's Wear,3974.0,http://imgs.merchant.com/sneakers_31.jpg,A-5,INV-88667
+CLOTH-1032,Urban Watch - Black,Kids,3062.48,http://imgs.merchant.com/watch_32.jpg,A-60,INV-96736
+CLOTH-1033,Classic Sneakers - White,Women's Wear,4674.78,http://imgs.merchant.com/sneakers_33.jpg,A-71,INV-87925
+CLOTH-1034,Chic Handbag - Red,Kids,4277.33,http://imgs.merchant.com/handbag_34.jpg,A-76,INV-51328
+CLOTH-1035,Urban Suit - Black,Women's Wear,2295.74,http://imgs.merchant.com/suit_35.jpg,A-62,INV-53635
+CLOTH-1036,Urban Handbag - Red,Women's Wear,3699.74,http://imgs.merchant.com/handbag_36.jpg,A-75,INV-55333
+CLOTH-1037,Chic Sneakers - White,Women's Wear,2120.64,http://imgs.merchant.com/sneakers_37.jpg,A-2,INV-55004
+CLOTH-1038,Modern Handbag - Black,Men's Wear,4570.5,http://imgs.merchant.com/handbag_38.jpg,A-63,INV-17342
+CLOTH-1039,Classic Sneakers - White,Men's Wear,4335.94,http://imgs.merchant.com/sneakers_39.jpg,A-22,INV-17426
+CLOTH-1040,Vintage Handbag - Red,Kids,4914.31,http://imgs.merchant.com/handbag_40.jpg,A-93,INV-89912
+CLOTH-1041,Classic T-Shirt - White,Women's Wear,1168.18,http://imgs.merchant.com/t-shirt_41.jpg,A-78,INV-49364
+CLOTH-1042,Chic T-Shirt - White,Kids,4440.7,http://imgs.merchant.com/t-shirt_42.jpg,A-26,INV-66204
+CLOTH-1043,Modern Handbag - Red,Accessories,1041.86,http://imgs.merchant.com/handbag_43.jpg,A-74,INV-10782
+CLOTH-1044,Sporty Sunglasses - Black,Accessories,4304.02,http://imgs.merchant.com/sunglasses_44.jpg,A-95,INV-55673
+CLOTH-1045,Vintage T-Shirt - Blue,Men's Wear,3335.19,http://imgs.merchant.com/t-shirt_45.jpg,A-99,INV-61671
+CLOTH-1046,Vintage Suit - Red,Accessories,2167.1,http://imgs.merchant.com/suit_46.jpg,A-86,INV-17135
+CLOTH-1047,Urban T-Shirt - Red,Footwear,1531.75,http://imgs.merchant.com/t-shirt_47.jpg,A-4,INV-88316
+CLOTH-1048,Modern Sunglasses - White,Footwear,4736.2,http://imgs.merchant.com/sunglasses_48.jpg,A-59,INV-63585
+CLOTH-1049,Urban Jeans - White,Men's Wear,3795.76,http://imgs.merchant.com/jeans_49.jpg,A-76,INV-37826
+CLOTH-1050,Sporty Dress - Black,Kids,521.39,http://imgs.merchant.com/dress_50.jpg,A-13,INV-55140
+CLOTH-1051,Vintage T-Shirt - Red,Kids,1988.02,http://imgs.merchant.com/t-shirt_51.jpg,A-63,INV-34079
+CLOTH-1052,Classic Sunglasses - White,Men's Wear,2538.91,http://imgs.merchant.com/sunglasses_52.jpg,A-84,INV-19749
+CLOTH-1053,Urban T-Shirt - White,Accessories,2849.47,http://imgs.merchant.com/t-shirt_53.jpg,A-56,INV-86102
+CLOTH-1054,Classic Suit - Red,Footwear,4945.67,http://imgs.merchant.com/suit_54.jpg,A-45,INV-49661
+CLOTH-1055,Classic Watch - Black,Footwear,3987.66,http://imgs.merchant.com/watch_55.jpg,A-14,INV-24299
+CLOTH-1056,Modern Scarf - White,Women's Wear,582.07,http://imgs.merchant.com/scarf_56.jpg,A-88,INV-16462
+CLOTH-1057,Urban Scarf - Red,Men's Wear,1686.7,http://imgs.merchant.com/scarf_57.jpg,A-17,INV-63269
+CLOTH-1058,Vintage Scarf - Black,Women's Wear,4467.57,http://imgs.merchant.com/scarf_58.jpg,A-54,INV-13049
+CLOTH-1059,Vintage Jacket - White,Footwear,528.86,http://imgs.merchant.com/jacket_59.jpg,A-28,INV-50854
+CLOTH-1060,Elegant Scarf - Blue,Footwear,2647.45,http://imgs.merchant.com/scarf_60.jpg,A-27,INV-77997
+CLOTH-1061,Modern Suit - Black,Footwear,3022.23,http://imgs.merchant.com/suit_61.jpg,A-6,INV-71625
+CLOTH-1062,Modern Sneakers - White,Women's Wear,2522.59,http://imgs.merchant.com/sneakers_62.jpg,A-15,INV-58905
+CLOTH-1063,Elegant Sunglasses - White,Accessories,2628.47,http://imgs.merchant.com/sunglasses_63.jpg,A-41,INV-39002
+CLOTH-1064,Vintage Jeans - Blue,Men's Wear,4398.53,http://imgs.merchant.com/jeans_64.jpg,A-96,INV-34587
+CLOTH-1065,Chic Handbag - Blue,Footwear,4954.58,http://imgs.merchant.com/handbag_65.jpg,A-85,INV-86120
+CLOTH-1066,Modern Jeans - Red,Women's Wear,4858.71,http://imgs.merchant.com/jeans_66.jpg,A-56,INV-75810
+CLOTH-1067,Sporty Suit - Red,Men's Wear,4110.33,http://imgs.merchant.com/suit_67.jpg,A-80,INV-79580
+CLOTH-1068,Modern Dress - Black,Kids,1508.65,http://imgs.merchant.com/dress_68.jpg,A-96,INV-60364
+CLOTH-1069,Modern T-Shirt - Blue,Women's Wear,4020.19,http://imgs.merchant.com/t-shirt_69.jpg,A-73,INV-28542
+CLOTH-1070,Chic Scarf - Red,Women's Wear,2465.35,http://imgs.merchant.com/scarf_70.jpg,A-88,INV-95717
+CLOTH-1071,Modern T-Shirt - Red,Women's Wear,2787.01,http://imgs.merchant.com/t-shirt_71.jpg,A-18,INV-84478
+CLOTH-1072,Urban Sneakers - Blue,Footwear,697.51,http://imgs.merchant.com/sneakers_72.jpg,A-27,INV-85584
+CLOTH-1073,Chic Sunglasses - Red,Kids,4933.03,http://imgs.merchant.com/sunglasses_73.jpg,A-44,INV-59189
+CLOTH-1074,Sporty Scarf - Red,Accessories,2768.84,http://imgs.merchant.com/scarf_74.jpg,A-61,INV-67406
+CLOTH-1075,Urban T-Shirt - White,Men's Wear,1217.39,http://imgs.merchant.com/t-shirt_75.jpg,A-15,INV-65124
+CLOTH-1076,Chic Dress - Black,Kids,1621.94,http://imgs.merchant.com/dress_76.jpg,A-64,INV-92216
+CLOTH-1077,Sporty Dress - White,Men's Wear,2447.2,http://imgs.merchant.com/dress_77.jpg,A-15,INV-95292
+CLOTH-1078,Urban Jeans - White,Men's Wear,985.92,http://imgs.merchant.com/jeans_78.jpg,A-99,INV-77442
+CLOTH-1079,Urban Suit - Black,Men's Wear,2345.85,http://imgs.merchant.com/suit_79.jpg,A-57,INV-21449
+CLOTH-1080,Chic Jacket - Red,Accessories,3631.94,http://imgs.merchant.com/jacket_80.jpg,A-40,INV-34707
+CLOTH-1081,Vintage Jacket - White,Accessories,3523.85,http://imgs.merchant.com/jacket_81.jpg,A-28,INV-92192
+CLOTH-1082,Vintage Handbag - Blue,Men's Wear,4541.19,http://imgs.merchant.com/handbag_82.jpg,A-42,INV-74902
+CLOTH-1083,Chic Jeans - Blue,Women's Wear,810.18,http://imgs.merchant.com/jeans_83.jpg,A-27,INV-17916
+CLOTH-1084,Modern Jacket - Red,Women's Wear,4211.87,http://imgs.merchant.com/jacket_84.jpg,A-21,INV-83598
+CLOTH-1085,Chic Watch - Black,Women's Wear,1586.81,http://imgs.merchant.com/watch_85.jpg,A-43,INV-50136
+CLOTH-1086,Vintage Watch - White,Women's Wear,2842.56,http://imgs.merchant.com/watch_86.jpg,A-40,INV-65479
+CLOTH-1087,Urban T-Shirt - White,Men's Wear,1532.39,http://imgs.merchant.com/t-shirt_87.jpg,A-44,INV-88957
+CLOTH-1088,Chic Scarf - White,Kids,4380.96,http://imgs.merchant.com/scarf_88.jpg,A-5,INV-87538
+CLOTH-1089,Elegant Suit - Red,Kids,1374.07,http://imgs.merchant.com/suit_89.jpg,A-49,INV-42497
+CLOTH-1090,Modern Suit - Blue,Men's Wear,2970.36,http://imgs.merchant.com/suit_90.jpg,A-40,INV-85833
+CLOTH-1091,Urban Jacket - Blue,Men's Wear,4306.77,http://imgs.merchant.com/jacket_91.jpg,A-27,INV-60983
+CLOTH-1092,Modern Jeans - Red,Men's Wear,2028.2,http://imgs.merchant.com/jeans_92.jpg,A-46,INV-38487
+CLOTH-1093,Elegant Handbag - Blue,Women's Wear,4722.12,http://imgs.merchant.com/handbag_93.jpg,A-9,INV-52863
+CLOTH-1094,Elegant Watch - Black,Footwear,3375.62,http://imgs.merchant.com/watch_94.jpg,A-45,INV-42942
+CLOTH-1095,Modern Sneakers - Red,Kids,3499.95,http://imgs.merchant.com/sneakers_95.jpg,A-28,INV-22329
+CLOTH-1096,Elegant Jacket - Black,Accessories,1393.67,http://imgs.merchant.com/jacket_96.jpg,A-37,INV-11525
+CLOTH-1097,Classic Dress - Black,Women's Wear,824.78,http://imgs.merchant.com/dress_97.jpg,A-75,INV-27088
+CLOTH-1098,Vintage Scarf - White,Footwear,4669.59,http://imgs.merchant.com/scarf_98.jpg,A-47,INV-19146
+CLOTH-1099,Elegant Watch - White,Men's Wear,2246.89,http://imgs.merchant.com/watch_99.jpg,A-17,INV-22468
+CLOTH-1100,Modern Sneakers - White,Men's Wear,4849.52,http://imgs.merchant.com/sneakers_100.jpg,A-53,INV-90283
+CLOTH-1101,Classic Jeans - White,Men's Wear,1513.47,http://imgs.merchant.com/jeans_101.jpg,A-63,INV-88605
+CLOTH-1102,Urban Handbag - Blue,Women's Wear,1716.51,http://imgs.merchant.com/handbag_102.jpg,A-28,INV-68770
+CLOTH-1103,Sporty Scarf - Red,Footwear,2772.55,http://imgs.merchant.com/scarf_103.jpg,A-61,INV-72006
+CLOTH-1104,Chic Jacket - Blue,Kids,649.79,http://imgs.merchant.com/jacket_104.jpg,A-38,INV-39179
+CLOTH-1105,Vintage T-Shirt - White,Men's Wear,4072.61,http://imgs.merchant.com/t-shirt_105.jpg,A-81,INV-38780
+CLOTH-1106,Vintage Dress - Black,Accessories,1605.93,http://imgs.merchant.com/dress_106.jpg,A-76,INV-88497
+CLOTH-1107,Vintage T-Shirt - White,Women's Wear,796.85,http://imgs.merchant.com/t-shirt_107.jpg,A-50,INV-85285
+CLOTH-1108,Chic Watch - Blue,Footwear,3313.84,http://imgs.merchant.com/watch_108.jpg,A-19,INV-68856
+CLOTH-1109,Chic Handbag - Red,Men's Wear,1319.41,http://imgs.merchant.com/handbag_109.jpg,A-32,INV-51712
+CLOTH-1110,Sporty Jacket - Black,Men's Wear,3969.64,http://imgs.merchant.com/jacket_110.jpg,A-38,INV-61304
+CLOTH-1111,Sporty Handbag - Blue,Footwear,4039.9,http://imgs.merchant.com/handbag_111.jpg,A-65,INV-14472
+CLOTH-1112,Vintage Sneakers - Blue,Accessories,2955.78,http://imgs.merchant.com/sneakers_112.jpg,A-35,INV-92272
+CLOTH-1113,Urban T-Shirt - Red,Kids,4516.14,http://imgs.merchant.com/t-shirt_113.jpg,A-29,INV-58096
+CLOTH-1114,Modern Handbag - Red,Footwear,2483.57,http://imgs.merchant.com/handbag_114.jpg,A-76,INV-28653
+CLOTH-1115,Vintage Jeans - White,Men's Wear,2999.26,http://imgs.merchant.com/jeans_115.jpg,A-33,INV-78748
+CLOTH-1116,Classic Jacket - Blue,Accessories,4230.25,http://imgs.merchant.com/jacket_116.jpg,A-58,INV-81137
+CLOTH-1117,Classic Scarf - Blue,Women's Wear,1470.62,http://imgs.merchant.com/scarf_117.jpg,A-81,INV-18569
+CLOTH-1118,Urban Jeans - White,Footwear,2968.66,http://imgs.merchant.com/jeans_118.jpg,A-83,INV-64873
+CLOTH-1119,Elegant Sneakers - Black,Kids,2743.12,http://imgs.merchant.com/sneakers_119.jpg,A-38,INV-49497
+CLOTH-1120,Classic Jeans - Red,Women's Wear,3786.73,http://imgs.merchant.com/jeans_120.jpg,A-5,INV-70208
+CLOTH-1121,Urban Dress - Red,Women's Wear,1398.42,http://imgs.merchant.com/dress_121.jpg,A-29,INV-88121
+CLOTH-1122,Sporty Sunglasses - Blue,Footwear,2734.11,http://imgs.merchant.com/sunglasses_122.jpg,A-83,INV-30017
+CLOTH-1123,Vintage Jacket - Black,Men's Wear,4456.01,http://imgs.merchant.com/jacket_123.jpg,A-64,INV-83686
+CLOTH-1124,Modern T-Shirt - Red,Accessories,2689.02,http://imgs.merchant.com/t-shirt_124.jpg,A-98,INV-45468
+CLOTH-1125,Urban Suit - Blue,Men's Wear,2004.74,http://imgs.merchant.com/suit_125.jpg,A-78,INV-43736
+CLOTH-1126,Urban Sunglasses - Blue,Women's Wear,2983.89,http://imgs.merchant.com/sunglasses_126.jpg,A-40,INV-38451
+CLOTH-1127,Modern Dress - Red,Men's Wear,517.87,http://imgs.merchant.com/dress_127.jpg,A-65,INV-53583
+CLOTH-1128,Chic Handbag - Red,Footwear,2140.44,http://imgs.merchant.com/handbag_128.jpg,A-49,INV-42999
+CLOTH-1129,Sporty Suit - Red,Footwear,2107.8,http://imgs.merchant.com/suit_129.jpg,A-28,INV-74594
+CLOTH-1130,Elegant Sneakers - Red,Accessories,1194.39,http://imgs.merchant.com/sneakers_130.jpg,A-81,INV-87073
+CLOTH-1131,Classic Handbag - Black,Women's Wear,949.99,http://imgs.merchant.com/handbag_131.jpg,A-25,INV-19476
+CLOTH-1132,Elegant Suit - Blue,Kids,2290.46,http://imgs.merchant.com/suit_132.jpg,A-13,INV-90052
+CLOTH-1133,Urban Handbag - Blue,Footwear,2177.31,http://imgs.merchant.com/handbag_133.jpg,A-10,INV-83791
+CLOTH-1134,Chic Watch - Black,Men's Wear,4536.79,http://imgs.merchant.com/watch_134.jpg,A-2,INV-11847
+CLOTH-1135,Sporty Suit - Red,Footwear,2616.16,http://imgs.merchant.com/suit_135.jpg,A-70,INV-49966
+CLOTH-1136,Urban Handbag - Red,Footwear,4160.34,http://imgs.merchant.com/handbag_136.jpg,A-75,INV-12323
+CLOTH-1137,Vintage Suit - Blue,Footwear,2957.99,http://imgs.merchant.com/suit_137.jpg,A-98,INV-83876
+CLOTH-1138,Chic Dress - Black,Footwear,1937.78,http://imgs.merchant.com/dress_138.jpg,A-82,INV-97484
+CLOTH-1139,Urban Jacket - Black,Women's Wear,3957.24,http://imgs.merchant.com/jacket_139.jpg,A-30,INV-42506
+CLOTH-1140,Elegant T-Shirt - Red,Women's Wear,3992.81,http://imgs.merchant.com/t-shirt_140.jpg,A-82,INV-28693
+CLOTH-1141,Chic Jeans - Blue,Kids,4689.2,http://imgs.merchant.com/jeans_141.jpg,A-86,INV-18715
+CLOTH-1142,Vintage T-Shirt - Blue,Women's Wear,2552.99,http://imgs.merchant.com/t-shirt_142.jpg,A-43,INV-98669
+CLOTH-1143,Elegant Dress - White,Kids,1621.23,http://imgs.merchant.com/dress_143.jpg,A-87,INV-78870
+CLOTH-1144,Modern T-Shirt - Black,Men's Wear,2011.4,http://imgs.merchant.com/t-shirt_144.jpg,A-72,INV-28693
+CLOTH-1145,Modern Scarf - White,Men's Wear,1876.59,http://imgs.merchant.com/scarf_145.jpg,A-18,INV-18129
+CLOTH-1146,Chic Jacket - Blue,Footwear,4617.21,http://imgs.merchant.com/jacket_146.jpg,A-67,INV-73162
+CLOTH-1147,Sporty Jeans - White,Kids,4881.94,http://imgs.merchant.com/jeans_147.jpg,A-44,INV-59730
+CLOTH-1148,Classic Jacket - White,Men's Wear,642.46,http://imgs.merchant.com/jacket_148.jpg,A-10,INV-27910
+CLOTH-1149,Urban Jeans - Red,Footwear,3892.12,http://imgs.merchant.com/jeans_149.jpg,A-17,INV-96273
+CLOTH-1150,Classic Jacket - Black,Accessories,859.05,http://imgs.merchant.com/jacket_150.jpg,A-54,INV-42649
+CLOTH-1151,Modern Jeans - Blue,Footwear,4093.07,http://imgs.merchant.com/jeans_151.jpg,A-78,INV-57436
+CLOTH-1152,Vintage Dress - White,Kids,3267.8,http://imgs.merchant.com/dress_152.jpg,A-11,INV-37055
+CLOTH-1153,Classic Jacket - Black,Accessories,4676.88,http://imgs.merchant.com/jacket_153.jpg,A-56,INV-82482
+CLOTH-1154,Urban Dress - Black,Accessories,831.96,http://imgs.merchant.com/dress_154.jpg,A-86,INV-27241
+CLOTH-1155,Vintage Watch - Blue,Men's Wear,4853.57,http://imgs.merchant.com/watch_155.jpg,A-9,INV-46143
+CLOTH-1156,Classic Jacket - Black,Accessories,3854.33,http://imgs.merchant.com/jacket_156.jpg,A-55,INV-64380
+CLOTH-1157,Urban Watch - Blue,Women's Wear,2815.17,http://imgs.merchant.com/watch_157.jpg,A-28,INV-31158
+CLOTH-1158,Classic Watch - Black,Men's Wear,3397.12,http://imgs.merchant.com/watch_158.jpg,A-9,INV-44770
+CLOTH-1159,Vintage Sneakers - Red,Women's Wear,4689.39,http://imgs.merchant.com/sneakers_159.jpg,A-78,INV-22986
+CLOTH-1160,Urban Scarf - Black,Kids,4982.9,http://imgs.merchant.com/scarf_160.jpg,A-40,INV-71465
+CLOTH-1161,Vintage Handbag - Black,Women's Wear,3420.91,http://imgs.merchant.com/handbag_161.jpg,A-84,INV-58140
+CLOTH-1162,Sporty Suit - Red,Men's Wear,4738.11,http://imgs.merchant.com/suit_162.jpg,A-83,INV-53171
+CLOTH-1163,Sporty Watch - Black,Men's Wear,1774.63,http://imgs.merchant.com/watch_163.jpg,A-97,INV-27936
+CLOTH-1164,Modern Jacket - Black,Accessories,1700.4,http://imgs.merchant.com/jacket_164.jpg,A-37,INV-83760
+CLOTH-1165,Modern Handbag - Blue,Women's Wear,3789.83,http://imgs.merchant.com/handbag_165.jpg,A-36,INV-36921
+CLOTH-1166,Modern Scarf - Blue,Women's Wear,2226.59,http://imgs.merchant.com/scarf_166.jpg,A-3,INV-40430
+CLOTH-1167,Vintage Handbag - Black,Footwear,981.04,http://imgs.merchant.com/handbag_167.jpg,A-12,INV-96687
+CLOTH-1168,Vintage Scarf - Blue,Footwear,1131.59,http://imgs.merchant.com/scarf_168.jpg,A-2,INV-90461
+CLOTH-1169,Chic Sunglasses - White,Kids,685.94,http://imgs.merchant.com/sunglasses_169.jpg,A-58,INV-93906
+CLOTH-1170,Modern T-Shirt - White,Kids,2493.12,http://imgs.merchant.com/t-shirt_170.jpg,A-17,INV-22859
+CLOTH-1171,Classic Jacket - Red,Accessories,503.96,http://imgs.merchant.com/jacket_171.jpg,A-19,INV-19552
+CLOTH-1172,Elegant Jacket - White,Accessories,4564.38,http://imgs.merchant.com/jacket_172.jpg,A-49,INV-90212
+CLOTH-1173,Modern Sunglasses - Blue,Kids,4891.84,http://imgs.merchant.com/sunglasses_173.jpg,A-97,INV-32185
+CLOTH-1174,Chic T-Shirt - Blue,Footwear,1140.59,http://imgs.merchant.com/t-shirt_174.jpg,A-7,INV-65894
+CLOTH-1175,Sporty T-Shirt - White,Accessories,2959.01,http://imgs.merchant.com/t-shirt_175.jpg,A-32,INV-44863
+CLOTH-1176,Modern Watch - White,Accessories,2352.88,http://imgs.merchant.com/watch_176.jpg,A-99,INV-19583
+CLOTH-1177,Sporty Suit - Black,Men's Wear,4166.47,http://imgs.merchant.com/suit_177.jpg,A-31,INV-48290
+CLOTH-1178,Sporty Sneakers - Blue,Women's Wear,4533.63,http://imgs.merchant.com/sneakers_178.jpg,A-64,INV-80786
+CLOTH-1179,Sporty Sneakers - Blue,Footwear,3799.45,http://imgs.merchant.com/sneakers_179.jpg,A-50,INV-74903
+CLOTH-1180,Elegant Jacket - White,Accessories,2926.68,http://imgs.merchant.com/jacket_180.jpg,A-19,INV-52351
+CLOTH-1181,Modern Sunglasses - Black,Kids,3842.47,http://imgs.merchant.com/sunglasses_181.jpg,A-89,INV-88543
+CLOTH-1182,Sporty Dress - White,Footwear,4736.58,http://imgs.merchant.com/dress_182.jpg,A-67,INV-89834
+CLOTH-1183,Modern Dress - White,Kids,3505.74,http://imgs.merchant.com/dress_183.jpg,A-98,INV-87338
+CLOTH-1184,Vintage Jacket - Blue,Footwear,2621.14,http://imgs.merchant.com/jacket_184.jpg,A-41,INV-25029
+CLOTH-1185,Urban Sunglasses - White,Footwear,2611.81,http://imgs.merchant.com/sunglasses_185.jpg,A-1,INV-70695
+CLOTH-1186,Urban Sneakers - White,Accessories,1538.02,http://imgs.merchant.com/sneakers_186.jpg,A-30,INV-49907
+CLOTH-1187,Urban Sunglasses - Black,Men's Wear,3840.91,http://imgs.merchant.com/sunglasses_187.jpg,A-10,INV-35910
+CLOTH-1188,Classic Sunglasses - Blue,Footwear,2047.58,http://imgs.merchant.com/sunglasses_188.jpg,A-97,INV-13625
+CLOTH-1189,Chic Sneakers - Red,Women's Wear,2994.07,http://imgs.merchant.com/sneakers_189.jpg,A-1,INV-40540
+CLOTH-1190,Urban Sunglasses - Black,Women's Wear,4736.41,http://imgs.merchant.com/sunglasses_190.jpg,A-90,INV-82372
+CLOTH-1191,Urban Jacket - Blue,Accessories,2351.64,http://imgs.merchant.com/jacket_191.jpg,A-53,INV-40269
+CLOTH-1192,Chic Scarf - Blue,Kids,1305.23,http://imgs.merchant.com/scarf_192.jpg,A-62,INV-31094
+CLOTH-1193,Vintage Suit - White,Accessories,4642.05,http://imgs.merchant.com/suit_193.jpg,A-24,INV-83293
+CLOTH-1194,Sporty Jeans - Black,Footwear,4840.85,http://imgs.merchant.com/jeans_194.jpg,A-96,INV-58158
+CLOTH-1195,Chic Scarf - Blue,Accessories,4086.39,http://imgs.merchant.com/scarf_195.jpg,A-43,INV-14385
+CLOTH-1196,Sporty Sunglasses - White,Kids,3000.39,http://imgs.merchant.com/sunglasses_196.jpg,A-66,INV-55925
+CLOTH-1197,Chic Jeans - Blue,Women's Wear,1547.87,http://imgs.merchant.com/jeans_197.jpg,A-63,INV-92952
+CLOTH-1198,Classic Jeans - Black,Women's Wear,1338.36,http://imgs.merchant.com/jeans_198.jpg,A-29,INV-83962
+CLOTH-1199,Modern Dress - Blue,Accessories,2204.91,http://imgs.merchant.com/dress_199.jpg,A-21,INV-51893

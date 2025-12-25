@@ -1,0 +1,19 @@
+{
+    "data_source": {
+        "hints_for_primary_key": [
+            "sku",
+            "id",
+            "product_id",
+            "internal_sku",
+            "item_code",
+            "prod_id"
+        ]
+    },
+    "transformation_rules": [
+        "Capitalize the first letter of each word in item names (title case)",
+        "Convert prices from rupees to paise by multiplying by 100 and storing as integer",
+        "Make all categories values ALL CAPS...",
+        "We wish to add all 'Snacks' OR 'Accessories' to a sale category. So in item category mention 'SNACKS ON SALE!' or 'ACCESSORIES ON SALE!' for all items belonging to category Snacks or Accessories. Don't make any change in any other category.",
+        "For all items of category 'SNACKS ON SALE!' or 'ACCESSORIES ON SALE!' ONLY, add a 20% discount on price (store price in paise and int only) but for items of other categories, do not apply any discount."
+    ]
+}

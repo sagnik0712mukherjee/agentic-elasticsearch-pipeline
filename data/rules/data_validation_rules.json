@@ -1,0 +1,8 @@
+[
+    "item_id must be present and unique for each item",
+    "item_name must be a non-empty string",
+    "item_category must must be a non-empty string",
+    "item_price must be a non-negative integer",
+    "item_image_url must be a valid URL format if not null",
+    "No Item belonging to category 'SNACKS ON SALE!' or 'ACCESSORIES ON SALE!' should have price more than 1000 paise"
+]

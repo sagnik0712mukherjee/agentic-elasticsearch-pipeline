@@ -69,3 +69,4 @@ By leveraging **LangGraph** for orchestration and **GPT-5-mini** (via OpenAI) fo
     python main.py
     ```
     *You will be prompted to enter the target index name (e.g., `products`, `vendors`).*
+    *For Variance, use the ".._v2" version of the CSVs to validate UPSERT operations.*
